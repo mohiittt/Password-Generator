@@ -11,4 +11,6 @@ if __name__ == "__main__":
     password = generate_password(password_length)
     print("Generated Password:", password)
 
-"""string.ascii_letters (containing both uppercase and lowercase letters), string.digits (containing digits 0-9), and string.punctuation (containing special characters) to create a password of the specified length."""
+"""string.ascii_letters (containing both uppercase and lowercase letters), 
+string.digits (containing digits 0-9), and 
+string.punctuation (containing special characters) to create a password of the specified length."""
